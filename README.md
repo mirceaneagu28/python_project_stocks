@@ -10,10 +10,6 @@ This project is designed to process stock price data from multiple markets (LSE,
 - [How It Works](#how-it-works)
 - [Functions Explained](#functions-explained)
 - [Prediction Logic](#prediction-logic)
-- [Installation & Usage](#installation--usage)
-- [Example Output](#example-output)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
